@@ -110,4 +110,4 @@ figures/        charts
 ```
 
 ---
-*Akachidike David Nweze, Data Science, New Jersey Institute of Technology*
+*Akachidike David Nweze, Data Science, New Jersey Institute of Technology* · [GitHub](https://github.com/adn42-ui) · [adn42@njit.edu](mailto:adn42@njit.edu)
